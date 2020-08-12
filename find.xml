@@ -1,0 +1,15 @@
+<application>
+  <component name="FindSettings">
+    <option name="customScope" value="Project and Libraries" />
+    <option name="defaultScopeName" value="Project and Libraries" />
+    <option name="SEARCH_SCOPE" value="Project and Libraries" />
+    <mask>*.css</mask>
+    <mask>*.html</mask>
+    <mask>*.jsp</mask>
+    <mask>*.yml</mask>
+    <mask>*.properties</mask>
+    <mask>*.java</mask>
+    <mask>*.xml</mask>
+    <mask>*.js</mask>
+  </component>
+</application>
