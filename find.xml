@@ -8,9 +8,9 @@
     <mask>*.xml</mask>
     <mask>*ontroller.java</mask>
     <mask>*.yml</mask>
-    <mask>*.java</mask>
     <mask>*.html</mask>
     <mask>*.properties</mask>
     <mask>*.js</mask>
+    <mask>*.java</mask>
   </component>
 </application>
