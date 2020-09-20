@@ -1,21 +1,4 @@
 <application>
-  <component name="CodeFoldingSettings">
-    <option name="COLLAPSE_IMPORTS" value="false" />
-    <option name="COLLAPSE_FILE_HEADER" value="false" />
-  </component>
-  <component name="CodeInsightSettings">
-    <option name="completionCaseSensitive" value="1" />
-    <option name="COMPLETION_CASE_SENSITIVE" value="1" />
-    <option name="ADD_UNAMBIGIOUS_IMPORTS_ON_THE_FLY" value="true" />
-  </component>
-  <component name="DefaultFont">
-    <option name="FONT_SIZE" value="21" />
-    <option name="FONT_FAMILY" value="Droid Sans Mono" />
-    <option name="LINE_SPACING" value="1.3" />
-  </component>
-  <component name="EditorSettings">
-    <option name="SHOW_BREADCRUMBS" value="false" />
-  </component>
   <component name="InlayHintsSettings">
     <option name="disabledLanguages">
       <set>
@@ -24,8 +7,5 @@
     </option>
     <option name="enabled" value="false" />
     <option name="lastViewedProviderKeyId" value="parameter.hints.old" />
-  </component>
-  <component name="JavaCodeFoldingSettings">
-    <option name="collapseOneLineMethods" value="false" />
   </component>
 </application>
