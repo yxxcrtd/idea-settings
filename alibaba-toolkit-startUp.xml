@@ -1,0 +1,7 @@
+<application>
+  <component name="TipsStore">
+    <option name="globalFirstStartUp" value="false" />
+    <entry projectPath="$USER_HOME$/Workspaces/home" startUpFlag="FIRST" />
+    <entry projectPath="$USER_HOME$/Workspaces/huanglu.cn" startUpFlag="FIRST" />
+  </component>
+</application>
